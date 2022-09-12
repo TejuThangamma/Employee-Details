@@ -1,0 +1,13 @@
+.table{
+        table-layout: auto;
+        background-color: palegreen;
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+    .tr1{
+        background-color: gray;
+    }
+    .tr2{
+        background-color: gray;
+    }
+    

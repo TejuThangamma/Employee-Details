@@ -1,0 +1,18 @@
+.tr2{
+    background-color: palegreen;
+}
+.edit{
+    background-color: blue;
+}
+.delete{
+    background-color: red;
+}
+
+.add my-6{
+    position: relative;
+    top:-42px;
+    left:279px; 
+}
+#btnExport{
+    background-color: aqua;
+}

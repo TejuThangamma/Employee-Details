@@ -1,0 +1,46 @@
+.tr2{
+    background-color: palegreen;
+}
+.edit{
+    background-color: blue;
+}
+.delete{
+    background-color: red;
+}
+.search{
+    background-color: paleturquoise;
+    position: relative;
+    top:29px;
+    left:259px; 
+}
+.search1{
+    background-color: palegoldenrod;
+    position: relative;
+    top:-10px;
+    left:450px; 
+}
+
+
+ .export{
+    position:relative;
+    top:-60px;
+    left:751px;
+    background-color: palegoldenrod;
+} 
+.add1{
+    position:relative;
+    top:-129px;
+    left:1152px;
+    background-color: palegoldenrod;
+}
+.add2{
+    background-color: palegoldenrod;
+    position:relative;
+    top:67px;
+    left:27px; 
+}
+.tab{
+    position:relative;
+    top:-78px;
+   
+}
